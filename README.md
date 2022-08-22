@@ -64,5 +64,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_lambda_exec_wrapper_arn"></a> [lambda\_exec\_wrapper\_arn](#output\_lambda\_exec\_wrapper\_arn) | n/a |
+| <a name="output_lambda_exec_wrapper_layer_arn"></a> [lambda\_exec\_wrapper\_layer\_arn](#output\_lambda\_exec\_wrapper\_layer\_arn) | ARN of the AWS Lambda Layer containing the wrapper script. |
 <!-- END_TF_DOCS -->
